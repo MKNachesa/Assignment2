@@ -10,7 +10,7 @@ if __name__ == "__main__":
     lst = get_random(lenlist)
     search_start = time.time()
     target = random.choice([lst[random.randint(0, lenlist-1)], 100001])
+    print(linear_search(lst, target))
     search_stop = time.time()
     search_running_time = search_stop - search_start
-    print(linear_search(lst, target))
     print(f"{search_running_time: .20f}")
