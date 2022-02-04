@@ -1,0 +1,7 @@
+Search Alg	List size	Search time
+<function linear_search at 0x000001CACF4A6F70>	10	1.6901254653930663e-06
+<function linear_search at 0x000001CACF4A6F70>	100	8.975267410278321e-06
+<function linear_search at 0x000001CACF4A6F70>	1000	8.478937149047852e-05
+<function binary_search at 0x000001CACF4AF1F0>	10	7.60650634765625e-07
+<function binary_search at 0x000001CACF4AF1F0>	100	1.90732479095459e-06
+<function binary_search at 0x000001CACF4AF1F0>	1000	1.5816736221313476e-05
